@@ -48,3 +48,6 @@ Here's a breakdown of the key functionalities:
  <img src="https://raw.githubusercontent.com/Parabel-Corp/public-data/master/images/product-page.png" alt="Logo" width="49%">
  <img src="https://raw.githubusercontent.com/Parabel-Corp/public-data/master/images/product-page-light.png" alt="Logo" width="49%">
 </div>
+
+> This readme contains a subset of all pages and features that the application has.
+> Check the demo or [go to the paronova website](https://paronova.com) to see more
